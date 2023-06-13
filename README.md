@@ -1,7 +1,7 @@
 # CreditMetrics
 A simplified CreditMetrics model using Monte Carlo simulation. 
 
-For full documentation, please read Simplified CreditMetricsTM Model Using Monte Carlo Simulation.pdf from above.
+For full documentation, please read Simplified CreditMetrics Model Using Monte Carlo Simulation.pdf from above.
 
 In main.py:
 1. Add or remove Bonds under the Bonds section
