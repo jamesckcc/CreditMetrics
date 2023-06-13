@@ -117,6 +117,7 @@ df3 = SeniorityPara
 
 
 #Bonds
+NumberOfBonds = 10
 BondA = Bond("A", "Senior Secured", 5,6,3000000)
 BondB = Bond("BB", "Senior Unsecured", 4,7,1000000)
 BondC = Bond("AA", "Senior Secured", 3,5,4200000)
@@ -146,7 +147,7 @@ correlation = [
 
 n = 100000
 
-mean = [0,0,0,0,0,0,0,0,0,0]
+mean = [0]*NumberOfBonds
 samples = np.random.multivariate_normal(mean, correlation, size = n)
 samplesdf = pd.DataFrame(samples)
 
