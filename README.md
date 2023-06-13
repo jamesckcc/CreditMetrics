@@ -3,6 +3,7 @@ A simplified CreditMetrics model using Monte Carlo simulation.
 
 For full documentation, please read Simplified CreditMetricsTM Model Using Monte Carlo Simulation.pdf from above.
 
+In main.py:
 1. Add or remove Bonds under the Bonds section
 2. Specify the correlation matrix 
 3. Initiate the price of the corresponding bonds
