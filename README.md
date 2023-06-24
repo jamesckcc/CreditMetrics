@@ -5,5 +5,5 @@ For full documentation, please read [[Simplified CreditMetrics Model Using Monte
 
 
 [BondPortfolio.xlsm
-](https://github.com/jamesckcc/CreditMetrics/blob/main/BondPortfolio.xlsm) is the bond portfolio editor. Once you have confirmed your porfolio attributes, click save and run main.py 
+](https://github.com/jamesckcc/CreditMetrics/blob/main/BondPortfolio.xlsm) is the bond portfolio editor. Once you have finish editing your porfolio attributes, click save and run main.py 
 
