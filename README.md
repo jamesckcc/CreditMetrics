@@ -1,6 +1,6 @@
 # CreditMetrics
 A simplified CreditMetrics model using Monte Carlo simulation. <br />
-For documentation and full guide, please read [Simplified CreditMetrics Model by Using Monte Carlo Simulation](https://github.com/jamesckcc/CreditMetrics/blob/main/Simplified%20CreditMetrics%20Model%20Using%20Monte%20Carlo%20Simulation.pdf) from above. <br />
+For documentation and full guide, please read [Simplified CreditMetrics Model Using Monte Carlo Simulation](https://github.com/jamesckcc/CreditMetrics/blob/main/Simplified%20CreditMetrics%20Model%20Using%20Monte%20Carlo%20Simulation.pdf) from above. <br />
 
 Working environment: <br />
 
