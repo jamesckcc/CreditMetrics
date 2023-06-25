@@ -9,8 +9,8 @@ Working environment: <br />
 
 The Excel file is essentially the UI of the program, you don't have to open other files to run the program. To run the program, open BondPortfolio.xlsm after setting up the environment: <br />
 
-•	Create the Portfolio in <Portfolio> <br />
-•	Initiate and fill in the correlation matrix in <Correlation> <br />
-•	Select the Number of Simulation and click "Execute Program" in <Run> <br />
+•	Create the Portfolio in Portfolio Sheet <br />
+•	Initiate and fill in the correlation matrix in Correlation Sheet <br />
+•	Select the Number of Simulation and click "Execute Program" in Run Program Sheet <br />
 
 
