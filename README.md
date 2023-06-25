@@ -11,6 +11,6 @@ The Excel file is essentially the UI of the program, you don't have to open othe
 
 •	Create the Portfolio in <Portfolio>
 •	Initiate and fill in the correlation matrix in <Correlation>
-•	Select the Number of Simulation and click "Execute Program" in <Run Program>
+•	Select the Number of Simulation and click "Execute Program" in <Run "Program">
 
 
