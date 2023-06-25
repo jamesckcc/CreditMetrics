@@ -168,13 +168,6 @@ portfolioloss = np.mean(portfolio) - np.array(portfolio)
 
 plt.show()
 
-ES = []
-
-#--------------- Specify Var Level
-VarLvl = 95
-VarLvl2 = 99
-#---------------
-
 
 avg = np.mean(portfolio)
 plt.figure()
@@ -187,6 +180,11 @@ plt.ylabel("Density")
 
 plt.xlim(np.percentile(portfolio, 0.1),)
 plt.legend()
+
+#--------------- Specify Var Level
+VarLvl = 95
+VarLvl2 = 99
+#---------------
 
 var = np.percentile(portfolioloss, VarLvl)
 var2 = np.percentile(portfolioloss, VarLvl2)
