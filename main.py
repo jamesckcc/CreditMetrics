@@ -166,7 +166,6 @@ portfolioloss = np.mean(portfolio) - np.array(portfolio)
 #plt.title("Relative Loss")
 #plt.xlabel("Portfolio Loss")
 
-plt.show()
 
 
 avg = np.mean(portfolio)
