@@ -63,18 +63,18 @@ def simulatedprice(z, bondinfo):
 
 
 def readtransition (path):
-    transition = pd.read_excel(file_path, sheet_name = 3, skiprows=1, index_col = 0)
+    transition = pd.read_excel(path, sheet_name = 3, skiprows=1, index_col = 0)
     transition = transition*100
     return transition
 
 def readforward (path):
-    forward = pd.read_excel(file_path, sheet_name = 4, skiprows=1, index_col = 0)
+    forward = pd.read_excel(path, sheet_name = 4, skiprows=1, index_col = 0)
     forward = forward*100
     forward.columns = range(0, 6)
     return forward
 
 def readRR(path):
-    RR = pd.read_excel(file_path, sheet_name = 5, skiprows=1, index_col = 0)
+    RR = pd.read_excel(path, sheet_name = 5, skiprows=1, index_col = 0)
     seniority = RR.to_dict(orient='index')
 
     alpha_beta_dict = {
